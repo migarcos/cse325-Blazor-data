@@ -6,7 +6,8 @@ Blazor creates interactive web applications by using .NET code. It allows you to
 
 - Assemble a user interface for a web app by creating Blazor components.
 - Access data to display in your web app.
-- Share data in your web app between multiple Blazor components.
+- **Share data in your web app between multiple Blazor components.**
+    Component Parameters |  Cascading Parameters |  AppState
 - Bind an HTML element to a variable in a Blazor component.
 
 ## Project Set-Up
